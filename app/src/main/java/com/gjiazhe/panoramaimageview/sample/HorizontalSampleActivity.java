@@ -1,6 +1,6 @@
 package com.gjiazhe.panoramaimageview.sample;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.gjiazhe.panoramaimageview.GyroscopeObserver;
